@@ -1,0 +1,16 @@
+# Application
+application/smart_energy
+
+# Simulator
+simulator/virtual_meter
+
+# Linux kernel module build files
+driver/*.o
+driver/*.ko
+driver/*.mod
+driver/*.mod.c
+driver/*.mod.o
+driver/Module.symvers
+driver/modules.order
+driver/.*.cmd
+driver/.tmp_versions/
